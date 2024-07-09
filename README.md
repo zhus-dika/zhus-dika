@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhus-dika
-- 👀 I’m interested in math and programming
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in math, programming and data scinece
+- 🌱 I’m a master of math and computer science
 - 📫 How to reach me zhus.dinara@gmail.com
 
 <!---
